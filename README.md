@@ -4,7 +4,7 @@
 
 <h2>📚 Skills</h2>
 <p>My primary focus is on front-end development, where I pursue to build interactive and user-friendly web applications. I have intermediate knowledge of HTML, CSS and JavaScript, and I am currently learning React to strengthen my skill set.
-<br>I chose front-end programming because it allows me to experiment with personal ideas and easily visualize their progress as I keep working on them.</p>
+<br>However, my goal is to become a Full Stack developer someday, and to achieve this, I'm also looking trough some Back-End technologies.</p>
 
 <h2>💻 Tech</h2>
 
