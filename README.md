@@ -3,8 +3,7 @@
 <br>I enjoy the thrill of learning new things and being actively involved in problem-solving scenarios. <br>If you have any questions or would like to discuss potential collaborations, I'd be more than happy to connect!</p>
 
 <h2>📚 Skills</h2>
-<p>My primary focus is on front-end development, where I pursue to build interactive and user-friendly web applications. I have intermediate knowledge of HTML, CSS and JavaScript, and I am currently learning node.js to strengthen my skill set.
-<br>However, my goal is to become a Full Stack developer someday, and to achieve this, I'm also looking trough some Back-End technologies.</p>
+<p>My primary focus is on front-end development, where I pursue to build interactive and user-friendly web applications. I have intermediate knowledge of HTML, CSS and JavaScript, and I am currently learning some back-end technologies (like Java, PHP and MySQL) to strengthen my skill set as a programmer.
 
 <h2>💻 Tech</h2>
 
