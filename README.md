@@ -1,5 +1,5 @@
 <h2>👋 Hello there!</h2>
-<p>I'm Tiago Prestes, a Brazilian tech enthusiast and a passionate software developer. I am currently an Information Systems student in Pontifícia Universidade Católica do Paraná.
+<p>I'm Tiago, a Brazilian tech enthusiast and a passionate software developer. I am currently an Information Systems student in Pontifícia Universidade Católica do Paraná.
 <br>I enjoy the thrill of learning new things and being actively involved in problem-solving scenarios. <br>If you have any questions or would like to discuss potential collaborations, I'd be more than happy to connect!</p>
 
 <h2>📚 Skills</h2>
