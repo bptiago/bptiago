@@ -3,7 +3,7 @@
 <br>I enjoy the thrill of learning new things and being actively involved in problem-solving scenarios. <br>If you have any questions or would like to discuss potential collaborations, I'd be more than happy to connect!</p>
 
 <h2>📚 Skills</h2>
-I like to mainly practice languages such as JavaScript, TypeScript and Python, although I do some coding on PHP and Java occasionally. I am currently learning some new technologies (like React, Angular and Node.js) to strengthen my skill set as a developer.
+I like to mainly practice languages such as JavaScript and Java, although I do some coding on PHP and Python occasionally. I am currently learning some new technologies (like React, Angular and Node.js) to strengthen my skill set as a developer.
 
 <h2>🌐 Socials:</h2>
 
