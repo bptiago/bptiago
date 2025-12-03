@@ -7,7 +7,9 @@ I like to mainly practice languages such as JavaScript and Java, although I do s
 
 <h2>🌐 Socials:</h2>
 
+<a href="https://bptiago.github.io/portfolio/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
 <a href="https://www.linkedin.com/in/bptiago/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.instagram.com/bptiago_/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 <h2>🧮 GitHub Stats:</h2>
 
